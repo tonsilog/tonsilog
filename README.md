@@ -1,6 +1,6 @@
-## About me.
+# About me.
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 😩 I’m currently learning how to code
 - 🤔 I’m looking for help with coding
